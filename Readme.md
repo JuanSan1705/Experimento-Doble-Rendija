@@ -26,6 +26,7 @@ ondas viajando por el éter.
 - Lupa (Para mejores cortes)
 
 # Simulación
+![](ImagenSimulación/ImagenSimulación)
 
 
 
