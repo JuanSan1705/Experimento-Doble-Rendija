@@ -9,7 +9,7 @@ Se muestra los materiales basicos para la construcción de este y el objetivo po
 hacer una introducción hacia este comportamiento de esto en el mundo cuántico. Posteriormente se muestra una determinada simulación sobre
 este experiemento.
 
-#Información de Experimento e historia
+# Información de Experimento e historia
 Este experimento de Young (o mas conocida como experimento de la doble rendija) realizado en 1801 por Thomas Young en un intento de 
 discernir sobre la naturaleza corpuscular u ondulatoria de la luz. Se tiene en cuenta que este experimento no fue presentado formalmente hasta 
 1961 con electrones y así mostrando la dualidad. Lo importante de este experimento y lo que podemos observar es que la materia es indeterminista 
