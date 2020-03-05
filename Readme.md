@@ -29,10 +29,14 @@ ondas viajando por el éter.
 ![](/Imagenes/ImagenSimulación.png)
 
 # Simulación con codigo Python
+![](/Imagenes/Imagencodigo.png)
+![](/Imagenes/Imagen3.png)
 
 
 Resultado de simulación : [0, 0.5, 0.5, 0.0, 0.0, 0.0, 0.0, 0.0]
 
+# Bibliografía 
+https://www.ecured.cu/Experimento_de_Young
 
 
 
