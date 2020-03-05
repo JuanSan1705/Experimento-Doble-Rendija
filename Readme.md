@@ -26,7 +26,7 @@ ondas viajando por el éter.
 - Lupa (Para mejores cortes)
 
 # Simulación
-![](/ImagenSimulación.png/ImagenSimulación.png)
+![](/Imagenes/ImagenSimulación.png)
 
 # Simulación con codigo Python
 
